@@ -4,9 +4,9 @@
       <img src="https://cdn.donmai.us/sample/63/24/__original_and_1_more_drawn_by_kael_kael333__sample-63243cf593507181ff68efc164e09b63.jpg" alt="Caroline" height="400px" style="border-radius: 20px;">
     </td>
     <td>
-      <h2>Heyy~ I'm Caroline! 💚🌿</h2>
+      <h2>Hello!!👋 I'm Caroline! 💚🌿</h2>
       <p>I'm a fullstack dev who adores creating fun, smart and beautiful things for the web! ✨</p>
-      <p>From bots to entire platforms, if it lives in a browser — I’m in 💻💡</p>
+      <p>From bots to entire platforms, if it lives in a browser - I’m in 💻💡</p>
       <p>Also: big fan of green things, coffee, and cozy UI/UX vibes 🌱☕🎨</p>
       <p>Art by: <a href="https://kael.crd.co" target="_blank">kael333_</a></p>
     </td>
@@ -56,13 +56,13 @@
   <li>✨ Building responsive, beautiful frontends</li>
   <li>🔐 Fullstack projects with authentication, APIs, and dashboards</li>
   <li>🤖 Bots and automations (from Discord to business tools)</li>
-  <li>🎨 UI/UX design that feels *just right*</li>
+  <li>🎨 UI/UX design that feels <b>just right!!</b></li>
 </ul>
 
 ---
 
 <h4 align="center">💬 Come say hi!</h4>
 
-<p align="center">Whether it's for a cute portfolio, a smart automation, or just a cozy tech talk —<br/>let’s make something amazing together! 🌼</p>
+<p align="center">Whether it's for a cute portfolio, a smart automation, or just a cozy tech talk <br/>let’s make something amazing together! 🌼</p>
 
 <p align="center">With lots of green love,<br/>Carol 💚✨</p>
